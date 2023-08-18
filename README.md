@@ -1,6 +1,6 @@
 Hi Everyone,
 
-I'm Micah Doulos, and thanks for visiting my readme. 
+I'm MDoulos, and thanks for visiting my readme. 
 I'm a self-taught game and web developer that is currently filling in sizeable knowledge gaps that I've noticed in the past few years. As of March 2022.
 Check out my website StudioDoulos.com for more information!
 
